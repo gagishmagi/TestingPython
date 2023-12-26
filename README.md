@@ -1,0 +1,3 @@
+# Testing Python Project
+
+This project is for testing python automations...
