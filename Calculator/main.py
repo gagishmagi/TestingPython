@@ -1,7 +1,7 @@
 # unittest
 
 # Calculator
-def add(x, y):
+def addd(x, y):
     return x + y
 
 
